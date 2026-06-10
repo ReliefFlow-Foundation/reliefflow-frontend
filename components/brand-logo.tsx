@@ -20,3 +20,5 @@ export function BrandLogo({ className }: { className?: string }) {
     </svg>
   );
 }
+
+// patch: 2026-06-10T18:56:28.235288
